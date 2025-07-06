@@ -2,7 +2,7 @@
 
 A **lightweight and fast** Virtual Lab (V-Lab) template built using **HTML, CSS, and JavaScript**. This template provides a structured framework for developing interactive virtual labs without dependencies on frontend frameworks.
 
-🌐 **Live Demo:** [v-lab-template-vanilla.netlify.app](https://68694215deea213018beaf75--gleaming-beignet-3988c8.netlify.app/)
+🌐 **Live Demo:** [LoopsVlab](https://itsmeananyasrivastava.github.io/LoopsVlab/)
 
 ---
 
